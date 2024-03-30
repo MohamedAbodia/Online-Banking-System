@@ -9,5 +9,5 @@ Online Banking System - Desktop Application With SRS Documentation
 
 
 
-![System Overview](https://github.com/AhmedIssa11/Online-Banking-System/blob/master/project%20overview.jpeg)
+![System Overview](https://github.com/MohamedAbodia/Online-Banking-System/blob/main/project%20overview.jpeg)
 
