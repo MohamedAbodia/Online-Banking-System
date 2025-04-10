@@ -7,7 +7,10 @@ Online Banking System - Desktop Application With SRS Documentation
 - Tools: Visual Studio .Net, C#, Bunifu Tool and SQL Server.
 
 
+- Login Details
+- Username : Mohamed
+- Password : 123123
 
-
+  
 ![System Overview](https://github.com/MohamedAbodia/Online-Banking-System/blob/main/project%20overview.jpeg)
 
